@@ -1,0 +1,21 @@
+#main{
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+    margin-right:25%;
+    border-radius: 2rem;
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    border: 5px solid purple;
+    text-align: center;
+    font-weight:800;
+    font-size: 70px;
+    color:white;
+    background-color:black;
+}
+
+body{
+    background-color: black;
+}

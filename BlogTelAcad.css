@@ -1,0 +1,38 @@
+.mainAttraction{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size:3.5rem;
+    justify-content:center;
+    padding: 0 35% 0 35%;
+    width:100%;
+    margin-top:0;
+    margin-bottom:0;
+    font-weight: 700;
+    background-color: rgb(97, 21, 21);
+    /* border-radius:1rem;
+    border: 5px solid black; */
+}
+#content{
+    font-style: arial;
+    font-size: 30px;
+    width:100%;
+    color: white;
+}
+#mainButtons{
+    display:inline;
+    font-family: 'Dancing Script', cursive;
+}
+.container{
+    background-image: url("./wallhaven-eyp3ro.png");
+    background-size: cover;
+    height: 900px;
+}
+body{
+    margin:0%;
+}
+.noImage{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
